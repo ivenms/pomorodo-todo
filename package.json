@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "material-dashboard": "^2.1.0"
+  },
+  "name": "pomorodo-list.com",
+  "description": "Simple React web application build to help those who are struggling to focus and complete their tasks.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivenms/pomorodo-todo.git"
+  },
+  "author": "ivenms@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivenms/pomorodo-todo/issues"
+  },
+  "homepage": "https://github.com/ivenms/pomorodo-todo#readme"
+}
